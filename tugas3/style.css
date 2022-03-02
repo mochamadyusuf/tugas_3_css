@@ -1,0 +1,28 @@
+p {
+  background-color: #808080;
+  border: 1px solid #aaa;
+}
+
+.p_satu,
+.p_dua {
+  font-size: 0.53em;
+}
+
+.p_satu {
+  background-color: #de781f;
+}
+
+.p_dua {
+  background-color: #00f;
+  color: #fff;
+}
+
+.p_tiga {
+  background-color: #fff;
+  font-family: monospace;
+}
+
+.p_empat {
+  font-weight: bolder;
+  font-size: 0.78em;
+}
